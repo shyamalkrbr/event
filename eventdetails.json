@@ -1,0 +1,40 @@
+{
+	"events": [
+		{
+			"name" : "UI Certification",
+			"date" : "17-Mar-2020",
+			"seats" : 12,
+			"image" : "images/ui-cert.jpg"
+		},
+		{	
+			"name" : "Conference for Tech and AI",
+			"date" : "29-Mar-2020",
+			"seats" : 25,
+			"image" : "images/ai-conf.jpg"
+		},
+		{
+			"name" : "React Certification",
+			"date" : "04-Apr-2020",
+			"seats" : 20,
+			"image" : "images/react-cert.jpg"
+		},
+		{
+			"name" : "Measuring UX and ROI",
+			"date" : "04-Apr-2020",
+			"seats" : 10,
+			"image" : "images/ux-roi.jpg"
+		},
+		{
+			"name" : "SAFe Practitioner",
+			"date" : "15-Apr-2020",
+			"seats" : 15,
+			"image" : "images/safe-pract.jpg"
+		},
+		{
+			"name" : "Designing and Wireframing",
+			"date" : "30-Jun-2020",
+			"seats" : 5,
+			"image" : "images/desig-wire.jpg"
+		}
+	]
+}
